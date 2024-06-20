@@ -1,1 +1,15 @@
+//array of number
 [10,20,44]
+
+
+//array of string
+["Harsh","Jay","Nasheen"]
+
+
+//Object of json
+{
+    "name" : "Harsh", //string
+    "age" : 20, //number
+    "active" : true   //boolean
+}
+
