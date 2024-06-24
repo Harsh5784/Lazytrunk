@@ -1,2 +1,3 @@
-# This is the json learning file
-which Contains basic format of json for understanding
+# This is the  Javascript And JSON learning repository which i created while learning
+
+This repo contains all the codes which i coded while learning
